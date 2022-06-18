@@ -1,0 +1,1 @@
+In this project I will building a basic recipe website in conjunction with using github to consolodate my knowledge covered so far in TheOdinProject.
